@@ -20,3 +20,22 @@ Hello ***World***   粗體+斜體
 ---
 
 Hello `WORLD`
+
+
+```
+
+Hello WORLD
+Hello WORLD
+Hello WORLD
+Hello WORLD
+
+```
+
+```python
+
+def hello():
+    print('hello world')
+
+    hello()
+
+```
