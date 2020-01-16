@@ -5,3 +5,9 @@
 ###### Header6
 
 > 我是註解
+
+
+Hello __World__     刪除縣
+Hello *World*       斜體
+Hello **World**     粗體   
+Hello ***World***   粗體+斜體
