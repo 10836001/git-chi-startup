@@ -42,6 +42,7 @@ def hello():
 ---
 
 ![](./ntub.png)
+![](./cute.jfif)
 
 ---
 
